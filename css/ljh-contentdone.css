@@ -1,0 +1,39 @@
+a{overflow: hidden}
+.personal{
+    width: 1200px;
+    height: 130px;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+.personal img{
+    width: 1200px;
+    height: 130px;
+}
+.daohang{
+    width: 1200px;
+    height: 20px;
+    margin: 0 auto;
+    margin-top: 48px;
+}
+.banner{width: 100%;height: 520px;background: url("../images/ljh-dingzhibanner05.png")-280px 0}
+.tiaozhuan{width: 134px;height: 92px;position: absolute;top: 0;left:-120px;font-family: "文悦古体仿宋 (非商业用途)";font-size: 18px;color: #666}
+.tiaozhuan div{margin-top: 8px}
+.tiaozhuan div:hover{color:#a83a38 }
+.tiaozhuan div span{cursor: pointer}
+.dingzhidaohang{width: 329px;height:69px;margin: 0 auto;margin-top: 60px;background: url("../images/ljh-dingzhibanner_03.png")}
+.contentkuang{width: 950px;height:590px;margin: 0 auto;position: relative;margin-top: 60px}
+.contentzuo{width: 536px;height: 590px;float: left;overflow: hidden}
+.contentzuo img{width: 536px;height: 590px;transition: all 0.5s}
+.contentxiao{width: 196px;height: 196px;margin-left: 10px;background: #000;float: left;overflow: hidden;transition: all 0.5s}
+.contentxiao img{width:196px;height:196px;transition: all 0.5s}
+.contentshu{width: 60px;height: 223px;float: left;margin-top: 15px;margin-left: 68px}
+.contentneirong{width: 358px;height: 139px;float: left;margin-left: 26px;margin-top:44px}
+.wenzi1{font-size: 18px;color: #1b1b1b}
+.wenzi2{font-size: 14px;color: #555}
+.wenzi3{color: #ff1212}
+.float{float: right;margin-left: 0}
+.float1{margin-right: 10px}
+.float2{margin-right: 26px}
+.float3{margin-right: 68px}
+
+
